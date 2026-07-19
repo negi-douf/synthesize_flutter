@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Widget
 - [ ] Cupertino
 - [ ] なぜ従来のブラウザ機能だと遅いのか
 - [ ] Skia
@@ -15,7 +14,9 @@ kanban-plugin: board
 - [ ] 名前がSkyから変わった理由
 - [ ] 1.0のリリースからの歴史
 - [ ] React Nativeとの立ち位置の違いと流行の攻防
-- [ ] 60-120fpsは正しいか、一般的にはどうなのか
+- [ ] Widgetツリー
+- [ ] Elementツリー
+- [ ] RenderObjectツリー
 
 
 ## In Progress
@@ -24,6 +25,8 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] 60-120fpsは正しいか、一般的にはどうなのか
+- [ ] Widget
 - [ ] Dart
 
 

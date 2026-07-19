@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Dart
 - [ ] Widget
 - [ ] Cupertino
 - [ ] なぜ従来のブラウザ機能だと遅いのか
@@ -25,6 +24,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Dart
 
 
 

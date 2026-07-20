@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] 1.0のリリースからの歴史
 - [ ] React Nativeとの立ち位置の違いと流行の攻防
 - [ ] Widgetツリー
 - [ ] Elementツリー
@@ -19,6 +18,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] 1.0のリリースからの歴史
 - [ ] 名前がSkyから変わった理由
 - [ ] なぜFlutterはOS更新に耐えられるのか
 - [ ] Impeller

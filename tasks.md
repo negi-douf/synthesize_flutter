@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] なぜ従来のブラウザ機能だと遅いのか
 - [ ] Skia
 - [ ] Impeller
 - [ ] なぜFlutterは高速でなめらかな描画ができ、OS更新に耐えられるのか
@@ -24,6 +23,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] なぜ従来のブラウザ機能だと遅いのか
 - [ ] Cupertino
 - [ ] 60-120fpsは正しいか、一般的にはどうなのか
 - [ ] Widget

@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Cupertino
 - [ ] なぜ従来のブラウザ機能だと遅いのか
 - [ ] Skia
 - [ ] Impeller
@@ -25,6 +24,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Cupertino
 - [ ] 60-120fpsは正しいか、一般的にはどうなのか
 - [ ] Widget
 - [ ] Dart

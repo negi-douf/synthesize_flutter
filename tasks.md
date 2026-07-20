@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] なぜFlutterは高速でなめらかな描画ができ、OS更新に耐えられるのか
 - [ ] 名前がSkyから変わった理由
 - [ ] 1.0のリリースからの歴史
 - [ ] React Nativeとの立ち位置の違いと流行の攻防
@@ -21,6 +20,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] なぜFlutterはOS更新に耐えられるのか
 - [ ] Impeller
 - [ ] Skia
 - [ ] なぜ従来のブラウザ機能だと遅いのか
